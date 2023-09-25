@@ -1,0 +1,6 @@
+6
+       10	app
+       20	apple
+       100	application
+       300	append
+       150	appendix
